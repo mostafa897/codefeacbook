@@ -19,7 +19,7 @@ OSIF is an accurate facebook account information gathering, all sensitive inform
 $ pkg update upgrade
 $ pkg install git python2
 $ git clone https://github.com/mostafa897/m7x-py
-$ cd OSIF
+$ cd m7x-py
 ```
 
 # [ Setup ]
@@ -28,7 +28,7 @@ $ pip2 install -r requirements.txt
 ```
 # [ Running ]
 ```
-$ python2 osif.py
+$ python2 m7x.py
 ```
 # [ Screenshot ]
 <img src=".images/osif.png "/>
